@@ -224,7 +224,7 @@ This project goes over how to create and setup a security or distribution group 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Paste: The Network Path into the Description section (General tab). Type: (share folder) after the Network Path.  This will allow you to easily be able to find and use the Network Path in the future, if you want to share a folder (paste the Network Path in the File Explorer of another user’s computer).  <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Contact-Group-Printer-Shared-Folder-Organizational-Unit-Common-Que" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Share A Folder Using File Explorer</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Paste: The Network Path into the Description section (General tab). Type: (share folder) after the Network Path.  This will allow you to easily be able to find and use the Network Path in the future, if you want to share a folder (paste the Network Path in the File Explorer of another user’s computer).  <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Contact-Group-Printer-Shared-Folder-Organizational-Unit-Common-Que" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Share A Folder Using A File Explorer Network Path</b></span>  
 <br/>
 
 <table>
