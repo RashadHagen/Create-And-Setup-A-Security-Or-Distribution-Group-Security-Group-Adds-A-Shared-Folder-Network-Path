@@ -153,11 +153,98 @@ This project goes over how to create and setup a security or distribution group 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/21Mh5tk.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/KyJyYds.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/jEp6eti.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/JuXiMtM.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To get the Network Path of A Security Group: Right-Click: The Group folder (by default Microsoft puts them in path: C:\Shares).  Click: Properties.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/wMjGltb.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/TRXFa7r.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Sharing tab (top).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rOMkVH1.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/XD4ZFq7.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Highlight and copy the path below: Network Path:</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2ghYxSm.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/j7uikE2.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/mx3H4Zu.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go to Active Directory Users and Computers. Right-Click: The Group you just copied the Network Path of from File Explorer. Click: Properties.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/sp4Y1Rr.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/BIkAHGQ.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Paste: The Network Path into the Description section (General tab). Type: (share folder) after the Network Path.  This will allow you to easily be able to find and use the Network Path in the future, if needed.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/06nfb6t.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/5UcDVGA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>PClick: Apply.  Click: OK.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/P9hA9BM.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
