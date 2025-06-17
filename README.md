@@ -117,7 +117,7 @@ This project goes over how to create and setup a security or distribution group 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Group type (Distribution  (OR)  Security).  NOTE: After done setting up a Security Group.  You want to go to the folder in File Explorer to get the: Network Path (How To: below).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Group type (Distribution  (OR)  Security).  NOTE: After done setting up a Security Group, you want to go to the folder in File Explorer to get the: Network Path (How To: below).</b></span>  
 <br/>
 
 <table>
