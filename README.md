@@ -1,0 +1,2 @@
+# Create-And-Setup-A-Security-Or-Distribution-Group-Security-Group-Adds-A-Shared-Folder-Network-Path
+Create And Setup A Security Or Distribution Group Security Group Adds A Shared Folder Network Path   DESCRIPTION: Active Directory Users And Computers - How To Create And Setup A Security Or Distribution Group In Active Directory Users And Computers.  Creating A Security Group Adds A Shared Folder In File Explorer With A Network Path
