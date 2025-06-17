@@ -39,12 +39,125 @@ This project goes over how to create and setup a security or distribution group 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/DyoDKUD.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/ddTDbJI.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/T7D5REV.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/BxG3YGN.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
 
 
-<div
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Double-Click  (OR)  Click: The domain you want to use.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/a2HZ9oY.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The organizational unit  (OR)  folder you want to put this distribution group (OR) security group in.  Ex: Users folder.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/fSV4VTV.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/HDsc4Ed.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Hover over: New.  Click: Group.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ImQq4hX.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/UMw8zIA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: Group Name.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/FGCfymr.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/7oUBIL6.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Group scope.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/21Mh5tk.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/KyJyYds.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Group type (Distribution  (OR)  Security).  NOTE: After done setting up a Security Group.  You want to go to the folder in File Explorer to get the: Network Path (How To: below).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/pMOkL1D.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/nklRDYh.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: OK.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/mUMEoem.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: After creating a Security Group, you want to go to the folder in File Explorer to get the: Network Path.</b></span>  
+<br/><br/>
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>By default Active Directory Users and Computers puts your created Security Group in this File Explorer Path: C:\Shares</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/21Mh5tk.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/KyJyYds.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
