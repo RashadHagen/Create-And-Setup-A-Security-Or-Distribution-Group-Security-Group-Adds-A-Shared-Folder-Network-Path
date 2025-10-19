@@ -238,7 +238,7 @@ This project goes over how to create and setup a security or distribution group 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>PClick: Apply.  Click: OK.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Apply.  Click: OK.</b></span>  
 <br/>
 
 <table>
