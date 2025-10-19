@@ -15,7 +15,7 @@ This project goes over how to create and setup a security or distribution group 
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Active Directory Users And Computers  (AND)  File Explorer (Secuirty Group)</b>
+ - <b>Active Directory Users And Computers  (AND)  File Explorer (Secuirty Group Network Path)</b>
 
 
 
