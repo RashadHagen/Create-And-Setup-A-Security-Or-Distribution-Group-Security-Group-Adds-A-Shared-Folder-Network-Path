@@ -1,4 +1,4 @@
-<h1>Active Directory Users and Computers (ADUC)  (AND)  File Explorer (Security Group) - Create And Setup A Security Or Distribution Group In Active Directory Users And Computers.  Creating A Security Group Adds A Shared Folder In File Explorer With A Network Path</h1>
+<h1>Active Directory Users and Computers (ADUC)  AND  File Explorer (Security Group) - Create And Setup A Security Or Distribution Group In Active Directory Users And Computers.  Creating A Security Group Adds A Shared Folder In File Explorer With A Network Path</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
